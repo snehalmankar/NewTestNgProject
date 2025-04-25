@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-25T11:09:51 IST" name="NewTestNgPtoject" finished-at="2025-04-25T11:10:02 IST" duration-ms="11563">
+    <groups>
+      <group name="login">
+        <method signature="LoginTest.testLogin()[pri:0, instance:com.orangehrm.tests.LoginTest@1a482e36]" name="testLogin" class="com.orangehrm.tests.LoginTest"/>
+      </group> <!-- login -->
+    </groups>
+    <test started-at="2025-04-25T11:09:51 IST" name="Login Tests" finished-at="2025-04-25T11:10:02 IST" duration-ms="11563">
+      <class name="com.orangehrm.tests.LoginTest">
+        <test-method is-config="true" signature="setUpDriver()[pri:0, instance:com.orangehrm.tests.LoginTest@1a482e36]" started-at="2025-04-25T11:09:51 IST" name="setUpDriver" finished-at="2025-04-25T11:09:57 IST" duration-ms="6113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpDriver -->
+        <test-method signature="testLogin()[pri:0, instance:com.orangehrm.tests.LoginTest@1a482e36]" started-at="2025-04-25T11:09:57 IST" name="testLogin" finished-at="2025-04-25T11:10:02 IST" duration-ms="5427" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+      </class> <!-- com.orangehrm.tests.LoginTest -->
+    </test> <!-- Login Tests -->
+  </suite> <!-- NewTestNgPtoject -->
+</testng-results>
